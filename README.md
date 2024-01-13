@@ -1,7 +1,8 @@
 # Heap
 
 This repository contains a C++ implementation of a Heap data structure, along with a HeapSort algorithm and a PriorityQueue class built on top of the Heap.
-Contents:
+
+## Contents:
 
     heap.h: Header file containing the declaration and implementation of the Heap class. The Heap class provides functionalities like insertion, removal, heapification, and building a max heap.
 
